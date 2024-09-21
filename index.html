@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Diákönkormányzat Alkalmazás</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    /* For dropdown toggle animations */
+    .hidden { display: none; }
+    .block { display: block; }
+  </style>
+  <script>
+    function toggleDropdown(id) {
+      const element = document.getElementById(id);
+      element.classList.toggle('hidden');
+    }
+  </script>
+</head>
+<body class="bg-neutral-100 font-sans leading-relaxed">
+
+  <!-- Container -->
+  <div class="max-w-4xl mx-auto p-6">
+
+    <!-- Header -->
+    <header class="mb-12 text-center">
+      <h1 class="text-4xl font-bold text-gray-900">Diákönkormányzat Alkalmazás</h1>
+      <p class="mt-2 text-lg text-gray-600">Szolgáltatási Feltételek és Adatvédelmi Szabályzat</p>
+    </header>
+
+    <!-- TOS Section -->
+    <section class="bg-white p-6 rounded-lg shadow-md mb-6">
+      <h2 class="text-2xl font-semibold text-gray-800 mb-4 cursor-pointer" onclick="toggleDropdown('tosContent')">
+        Szolgáltatási Feltételek
+      </h2>
+      <div id="tosContent" class="hidden">
+        <p class="text-gray-700 mb-6">
+          Üdvözöljük a Petrik DÖK Applikációban (a továbbiakban: „Alkalmazás"), amely a diákönkormányzat tevékenységeit, kommunikációját és részvételét megkönnyítő platform. Az Alkalmazáshoz való hozzáféréssel vagy annak használatával Ön elfogadja a jelen Szolgáltatási feltételek betartását.
+        </p>
+
+        <h3 class="text-xl font-semibold text-gray-800 mb-4">1. Integráció a Microsoft iskolai fiókokkal</h3>
+        <p class="text-gray-700 mb-6">
+          1.1. Hitelesítés: Az Alkalmazás hitelesítési céllal integrálódik a Microsoft Entra alkalmazással. Az Alkalmazáshoz való hozzáféréshez a Microsoft Entra használatával Ön kifejezett hozzájárulását adja arra, hogy az iskolai hitelesítő adatokat használjuk a bejelentkezéshez és a személyazonosságának ellenőrzéséhez.
+        </p>
+
+        <h3 class="text-xl font-semibold text-gray-800 mb-4">2. Adatgyűjtés és tárolás</h3>
+        <p class="text-gray-700 mb-6">
+          2.1. Az Alkalmazás különböző típusú adatokat gyűjt és dolgoz fel, többek között személyes adatokat (pl. név, elérhetőségi adatok), és azokat biztonságos környezetben tároljuk az Európai Unión belül.
+          <br>2.2. Az adatgyűjtés és -feldolgozás részleteiről, valamint az Önt megillető jogokról az Adatvédelmi Szabályzatban talál további információkat.
+        </p>
+
+        <h3 class="text-xl font-semibold text-gray-800 mb-4">3. Felhasználói felelősségek</h3>
+        <p class="text-gray-700 mb-6">
+          3.1. A felhasználók felelősek fiókjuk hitelesítő adatainak bizalmas kezeléséért és minden olyan tevékenységért, amely a fiókjuk alatt történik.
+          <br>3.2. Tilos az Alkalmazást bármilyen jogellenes vagy nem engedélyezett célra használni.
+          <br>3.3. A felhasználók kötelesek tiszteletben tartani mások jogait és az iskola szabályzatait az Alkalmazás használata során.
+        </p>
+
+        <h3 class="text-xl font-semibold text-gray-800 mb-4">4. Szellemi tulajdon</h3>
+        <p class="text-gray-700 mb-6">
+          4.1. Az Alkalmazás és annak tartalma a Petrik DÖK tulajdonát képezi, és szerzői jogi védelem alatt áll.
+          <br>4.2. A felhasználók nem másolhatják, módosíthatják vagy terjeszthetik az Alkalmazás tartalmát a Petrik DÖK kifejezett engedélye nélkül.
+        </p>
+
+        <h3 class="text-xl font-semibold text-gray-800 mb-4">5. Biztonsági intézkedések</h3>
+        <p class="text-gray-700 mb-6">
+          5.1. Az iparági szabványoknak megfelelő biztonsági intézkedéseket hajtunk végre, hogy megvédjük az Ön adatait.
+          <br>5.2. Rendszeresen frissítjük és ellenőrizzük biztonsági protokolljainkat.
+        </p>
+
+        <h3 class="text-xl font-semibold text-gray-800 mb-4">6. Felelősség korlátozása</h3>
+        <p class="text-gray-700 mb-6">
+          6.1. Az Alkalmazást "as is" alapon biztosítjuk, és a jogszabályok által megengedett legteljesebb mértékben kizárjuk felelősségünket az esetleges hibákért, kimaradásokért vagy az Alkalmazás használatából eredő károkért.
+          <br>6.2. Nem vállalunk felelősséget a felhasználók által generált tartalomért.
+          <br>6.3. A felelősségünk korlátozása nem vonatkozik azokra az esetekre, amelyekre a magyar jogszabályok szerint nem lehet felelősséget kizárni vagy korlátozni.
+        </p>
+
+        <h3 class="text-xl font-semibold text-gray-800 mb-4">7. Megszüntetés</h3>
+        <p class="text-gray-700 mb-6">
+          7.1. Fenntartjuk a jogot, hogy bármikor, indoklás nélkül megszüntessük vagy felfüggesszük a hozzáférését az Alkalmazáshoz.
+        </p>
+
+        <h3 class="text-xl font-semibold text-gray-800 mb-4">8. Irányadó jog</h3>
+        <p class="text-gray-700 mb-6">
+          8.1. Jelen Feltételekre a magyar jog az irányadó.
+        </p>
+
+        <h3 class="text-xl font-semibold text-gray-800 mb-4">9. A szolgáltatási feltételek módosításai</h3>
+        <p class="text-gray-700 mb-6">
+          9.1. A jelen Feltételeket időről időre frissíthetjük. Az Alkalmazás további használata az új Feltételek elfogadását jelenti. Jelentős változások esetén külön értesítést küldünk, és szükség esetén ismételt hozzájárulást kérünk.
+        </p>
+
+        <h3 class="text-xl font-semibold text-gray-800 mb-4">10. Kapcsolattartási adatok és panaszkezelés</h3>
+        <p class="text-gray-700 mb-6">
+          Email: diakonkormanyzat.petrik@gmail.com
+          <br>Panaszával fordulhat a Nemzeti Adatvédelmi és Információszabadság Hatósághoz (NAIH) is: www.naih.hu
+        </p>
+
+        <h3 class="text-xl font-semibold text-gray-800 mb-4">11. Kártérítés</h3>
+        <p class="text-gray-700 mb-6">
+          11.1. Ön vállalja, hogy kártalanítja és mentesíti a Petrik DÖK-öt, annak tisztségviselőit, igazgatóit, alkalmazottait és ügynökeit minden olyan követelés, kár, kötelezettség, veszteség, költség vagy kiadás alól (beleértve az ésszerű ügyvédi díjakat is), amely az Ön Alkalmazás használatából vagy a jelen Feltételek megsértéséből ered.
+        </p>
+
+        <h3 class="text-xl font-semibold text-gray-800 mb-4">12. Adattovábbítás az EU-n kívülre</h3>
+        <p class="text-gray-700 mb-6">
+          12.1 Az Alkalmazás Firebase szolgáltatást használ, amely azt jelenti, hogy az Ön személyes adatai az Európai Unión kívülre is továbbításra kerülhetnek. A Google LLC, amely a Firebase szolgáltatást nyújtja, az EU-USA adatvédelmi pajzs keretrendszer résztvevője, és megfelelő garanciákat biztosít az adatok védelmére.
+          <br>12.2 Az adattovábbítás során az Ön adatait a GDPR által előírt megfelelő védelmi szintet biztosító intézkedésekkel védjük, beleértve az EU által jóváhagyott általános szerződési feltételek alkalmazását.
+          <br>12.3 Ha további információt szeretne kapni az adattovábbításról vagy a biztosított garanciákról, kérjük, lépjen kapcsolatba velünk a diakonkormanyzat.petrik@gmail.com címen.
+        </p>
+
+        <h3 class="text-xl font-semibold text-gray-800 mb-4">13. Automatizált döntéshozatal és profilalkotás</h3>
+        <p class="text-gray-700 mb-6">
+          13.1 Az Alkalmazás nem alkalmaz automatizált döntéshozatalt vagy profilalkotást.
+        </p>
+
+        <h3 class="text-xl font-semibold text-gray-800 mb-4">14. Panasztételi jog</h3>
+        <p class="text-gray-700 mb-6">
+          14.1 Önnek joga van panaszt tenni a Nemzeti Adatvédelmi és Információszabadság Hatóságnál (NAIH) az alábbi elérhetőségeken:
+          <br>Cím: 1055 Budapest, Falk Miksa utca 9-11.
+          <br>Postacím: 1363 Budapest, Pf.: 9.
+          <br>Telefon: +36 1 391 1400
+          <br>E-mail: ugyfelszolgalat@naih.hu
+          <br>Weboldal: https://www.naih.hu
+        </p>
+
+        <h3 class="text-xl font-semibold text-gray-800 mb-4">15. Adatvédelmi incidensek kezelése</h3>
+        <p class="text-gray-700 mb-6">
+          15.1 Adatvédelmi incidens esetén, ha az valószínűsíthetően magas kockázattal jár az Ön jogaira és szabadságaira nézve, haladéktalanul tájékoztatjuk Önt az incidens jellegéről, következményeiről és a kezelésére tett intézkedésekről.
+        </p>
+
+        <h3 class="text-xl font-semibold text-gray-800 mb-4">16. 16 év alatti felhasználók</h3>
+        <p class="text-gray-700 mb-6">
+          16.1 Az Alkalmazást 16 év alatti személyek is használhatják. A 16 év alatti felhasználók esetében a szülő vagy törvényes képviselő hozzájárulása szükséges az adatkezeléshez.
+          <br>16.2 Ha Ön 16 év alatti, kérjük, csak akkor használja az Alkalmazást, ha ehhez szülője vagy törvényes képviselője hozzájárult.
+          <br>16.3 Ha tudomásunkra jut, hogy 16 év alatti személy szülői vagy törvényes képviselői hozzájárulás nélkül használja az Alkalmazást, megtesszük a szükséges lépéseket az adatok törléséhez.
+        </p>
+      </div>
+    </section>
+
+    <!-- Data Guidelines Section -->
+    <section class="bg-white p-6 rounded-lg shadow-md">
+      <h2 class="text-2xl font-semibold text-gray-800 mb-4 cursor-pointer" onclick="toggleDropdown('dataGuidelines')">
+        Adatvédelmi Szabályzat
+      </h2>
+      <div id="dataGuidelines" class="hidden">
+        <h3 class="text-xl font-semibold text-gray-800 mb-4">1. Bevezetés</h3>
+        <p class="text-gray-700 mb-6">
+          Üdvözöljük a Petrik DÖK Alkalmazás Adatvédelmi Szabályzatában. Az alábbiakban bemutatjuk, hogyan gyűjtjük és védjük az Ön személyes adatait az Európai Unió Általános Adatvédelmi Rendelete (GDPR) és a magyar adatvédelmi jogszabályok előírásainak megfelelően.
+        </p>
+
+        <h3 class="text-xl font-semibold text-gray-800 mb-4">2. Adatkezelő</h3>
+        <p class="text-gray-700 mb-6">
+          Az adatkezelő a Petrik DÖK (székhely: [cím], email: diakonkormanyzat.petrik@gmail.com).
+        </p>
+
+        <h3 class="text-xl font-semibold text-gray-800 mb-4">3. Gyűjtött adatok</h3>
+        <p class="text-gray-700 mb-6">
+          3.1 Személyes adatok: Az alkalmazás használata során gyűjtjük az Ön nevét, e-mail címét és használati adatait, amelyeket a Microsoft Entra szolgáltatás által szerzünk meg az Ön kifejezett hozzájárulásával.
+          <br>3.2 Használati adatok: Információkat gyűjtünk arról, hogyan használja az Alkalmazást, beleértve a bejelentkezési időket, az elért funkciókat és az interakciókat.
+          <br>3.3 Eszközinformációk: Gyűjthetünk információkat az Ön által használt eszközről, beleértve az operációs rendszert, böngészőtípust és egyéb technikai adatokat.
+        </p>
+
+        <h3 class="text-xl font-semibold text-gray-800 mb-4">4. Az adatkezelés jogalapja és célja</h3>
+        <p class="text-gray-700 mb-6">
+          4.1 Az adatkezelés elsődleges jogalapja az Ön hozzájárulása (GDPR 6. cikk (1) bekezdés a) pont).
+          <br>4.2 Bizonyos esetekben az adatkezelés jogalapja lehet a jogos érdekünk (GDPR 6. cikk (1) bekezdés f) pont) vagy jogi kötelezettség teljesítése (GDPR 6. cikk (1) bekezdés c) pont).
+          <br>4.3 Az adatkezelés célja az Alkalmazás működtetése, a felhasználói élmény javítása, a diákönkormányzati tevékenységek támogatása, valamint jogi kötelezettségeink teljesítése.
+        </p>
+
+        <h3 class="text-xl font-semibold text-gray-800 mb-4">5. Az adatok felhasználása</h3>
+        <p class="text-gray-700 mb-6">
+          5.1 Az Ön adatait felhasználjuk az Alkalmazás működésének biztosítására és fejlesztésére.
+          <br>5.2 Az adatokat felhasználjuk a felhasználói élmény személyre szabására és az Alkalmazás funkcióinak javítására.
+          <br>5.3 Az összesített, nem személyazonosításra alkalmas adatokat statisztikai és elemzési célokra használhatjuk.
+        </p>
+
+        <h3 class="text-xl font-semibold text-gray-800 mb-4">6. Adatvédelem és biztonság</h3>
+        <p class="text-gray-700 mb-6">
+          6.1 Az iparági szabványoknak megfelelő technikai és szervezési biztonsági intézkedéseket alkalmazunk.
+          <br>6.2 Az adatokat titkosított formában tároljuk és továbbítjuk.
+          <br>6.3 Rendszeresen felülvizsgáljuk és frissítjük biztonsági protokolljainkat.
+        </p>
+
+        <h3 class="text-xl font-semibold text-gray-800 mb-4">7. Adatmegosztás</h3>
+        <p class="text-gray-700 mb-6">
+          7.1 Nem adjuk el vagy osztjuk meg az Ön személyes adatait harmadik felekkel, kivéve, ha erre jogi kötelezettségünk van vagy az Ön kifejezett hozzájárulását adta.
+          <br>7.2 Az Alkalmazás működtetéséhez szükséges szolgáltatókkal oszthatunk meg adatokat, akik adatfeldolgozóként járnak el és kötelesek az adatvédelmi előírásainkat betartani.
+        </p>
+
+        <h3 class="text-xl font-semibold text-gray-800 mb-4">8. Az Ön jogai</h3>
+        <p class="text-gray-700 mb-6">
+          8.1 Önnek joga van hozzáférni a róla tárolt adatokhoz, azok helyesbítését, törlését vagy az adatkezelés korlátozását kérni.
+          <br>8.2 Joga van az adathordozhatósághoz és a hozzájárulás visszavonásához.
+          <br>8.3 Az adatkezeléssel kapcsolatos kéréseit az alábbi e-mail címen fogadjuk: diakonkormanyzat.petrik@gmail.com
+        </p>
+
+        <h3 class="text-xl font-semibold text-gray-800 mb-4">9. Adatmegőrzés</h3>
+        <p class="text-gray-700 mb-6">
+          9.1 Az adatokat csak a szükséges ideig őrizzük meg, vagy ameddig a jogszabályok előírják, illetve amíg Ön a hozzájárulását vissza nem vonja.
+          <br>9.2 A felhasználói fiókhoz kapcsolódó adatokat a fiók törléséig vagy az utolsó bejelentkezéstől számított 2 évig őrizzük meg.
+          <br>9.3 A 16 év alatti felhasználók adatait különös gondossággal kezeljük, és azokat a szülői hozzájárulás visszavonása esetén haladéktalanul töröljük.
+        </p>
+
+        <h3 class="text-xl font-semibold text-gray-800 mb-4">10. Változások az adatvédelmi szabályzatban</h3>
+        <p class="text-gray-700 mb-6">
+          10.1 Fenntartjuk a jogot, hogy ezt a szabályzatot időről időre módosítsuk. A változásokról értesítjük a felhasználókat, és szükség esetén ismételt hozzájárulást kérünk.
+        </p>
+
+        <h3 class="text-xl font-semibold text-gray-800 mb-4">11. Kapcsolattartási adatok és panaszkezelés</h3>
+        <p class="text-gray-700 mb-6">
+          Ha kérdése vagy panasza van, lépjen kapcsolatba velünk: diakonkormanyzat.petrik@gmail.com
+          <br>Panaszával fordulhat a Nemzeti Adatvédelmi és Információszabadság Hatósághoz (NAIH) is: www.naih.hu
+        </p>
+
+        <h3 class="text-xl font-semibold text-gray-800 mb-4">12. Adattovábbítás az EU-n kívülre</h3>
+        <p class="text-gray-700 mb-6">
+          12.1 Az Ön személyes adatait nem továbbítjuk az Európai Unión kívülre. Amennyiben ez a jövőben változna, erről külön tájékoztatjuk Önt, és megfelelő garanciákat biztosítunk az adatok védelmére.
+        </p>
+
+        <h3 class="text-xl font-semibold text-gray-800 mb-4">13. Automatizált döntéshozatal és profilalkotás</h3>
+        <p class="text-gray-700 mb-6">
+          13.1 Az Alkalmazás nem alkalmaz automatizált döntéshozatalt vagy profilalkotást.
+        </p>
+
+        <h3 class="text-xl font-semibold text-gray-800 mb-4">14. Panasztételi jog</h3>
+        <p class="text-gray-700 mb-6">
+          14.1 Önnek joga van panaszt tenni a Nemzeti Adatvédelmi és Információszabadság Hatóságnál (NAIH) az alábbi elérhetőségeken:
+          <br>Cím: 1055 Budapest, Falk Miksa utca 9-11.
+          <br>Postacím: 1363 Budapest, Pf.: 9.
+          <br>Telefon: +36 1 391 1400
+          <br>E-mail: ugyfelszolgalat@naih.hu
+          <br>Weboldal: https://www.naih.hu
+        </p>
+
+        <h3 class="text-xl font-semibold text-gray-800 mb-4">15. Adatvédelmi incidensek kezelése</h3>
+        <p class="text-gray-700 mb-6">
+          15.1 Adatvédelmi incidens esetén, ha az valószínűsíthetően magas kockázattal jár az Ön jogaira és szabadságaira nézve, haladéktalanul tájékoztatjuk Önt az incidens jellegéről, következményeiről és a kezelésére tett intézkedésekről.
+        </p>
+      </div>
+    </section>
+
+    <footer class="text-center mt-12 text-gray-600">
+      © 2024 Diákönkormányzat Alkalmazás. Minden jog fenntartva.
+    </footer>
+  </div>
+</body>
+</html>
+

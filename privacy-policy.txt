@@ -1,0 +1,48 @@
+Adatvédelmi Szabályzat
+Bevezetés
+Üdvözöljük a DÖk Alkalmazás Adatvédelmi Szabályzatában (a továbbiakban: „Szabályzat”). Az alábbiakban bemutatjuk, hogyan gyűjtjük, használjuk, védjük és kezeljük az Ön személyes adatait, amikor Ön használja az Alkalmazást. Kérjük, olvassa el figyelmesen ezt a Szabályzatot, hogy megértse adatvédelmi gyakorlatunkat.
+
+Gyűjtött adatok
+2.1 Személyes adatok: Az alkalmazás használata során az alábbi személyes adatokat gyűjtjük, továbbá az applikáció hozzáférhet és tárolhat bármilyen, a 'Microsoft Azure'-ben található információt a felhasználóról:
+Név
+E-mail cím
+
+2.2 Használati adatok: Az Alkalmazás használata során automatikusan gyűjthetünk olyan adatokat, mint például:
+Az Alkalmazás használati időpontjai
+Funkciók, amelyeket Ön használ
+Az Ön által végzett tevékenységek az Alkalmazásban
+
+Az adatok használata
+3.1 Szolgáltatás nyújtása: Az Ön adatainak felhasználásával biztosítjuk az Alkalmazás működését, kezeljük a fiókját, és támogathatjuk az iskolai diákönkormányzati tevékenységeit.
+
+3.2 Kommunikáció: Személyre szabott értesítéseket, frissítéseket és információkat küldhetünk Önnek az Alkalmazással kapcsolatban.
+
+3.3 Fejlesztés: Az Ön adatait felhasználhatjuk az Alkalmazás fejlesztésére, hogy jobban megfeleljen az Ön igényeinek.
+
+Adatvédelem és biztonság
+4.1 Biztonsági intézkedések: Az iparági szabványoknak megfelelő biztonsági intézkedéseket alkalmazunk az Ön adatai védelme érdekében a jogosulatlan hozzáférés, nyilvánosságra hozatal, megváltoztatás vagy megsemmisítés ellen.
+
+4.2 Adatvédelmi incidensek: Adatsértés esetén a törvény által előírt módon értesítjük az érintett felhasználókat és megfelelő lépéseket teszünk.
+
+Adatmegosztás
+5.1 Harmadik félnek történő átadás: Az Ön személyes adatait nem osztjuk meg harmadik felekkel, kivéve, ha az szükséges jogi kötelezettségek teljesítéséhez vagy a jelen Szabályzatban foglaltak szerint történik.
+
+5.2 Különleges esetek: Az Ön adatait átadhatjuk jogi követelmények teljesítése érdekében, vagy ha az adatvédelmi előírásoknak megfelelően szükséges.
+
+Adatmegőrzés
+6.1 Megőrzési időszak: Az Ön személyes adatait addig őrizzük meg, ameddig szükséges az Alkalmazás működése, a jogi kötelezettségek teljesítése, vagy ameddig Ön nem kéri azok törlését e-mailen keresztül.
+
+Jogok és választások
+7.1 Hozzáférés és helyesbítés: Ön jogosult hozzáférni személyes adataihoz, kérheti azok helyesbítését vagy törlését.
+
+7.2 Leiratkozás: Az értesítések és egyéb kommunikációs anyagok fogadásáról bármikor leiratkozhat az Alkalmazás beállításaiban.
+
+A Szabályzat módosítása
+8.1 Módosítások: E Szabályzatot időről időre frissíthetjük. A módosított Szabályzatot ezen az oldalon tesszük közzé a frissített hatálybalépési dátummal. Az Alkalmazás további használata az új Szabályzat elfogadását jelenti.
+
+Kapcsolattartási adatok
+9.1 Támogatás: Ha bármilyen kérdése van az adatvédelmi gyakorlattal vagy a jelen Szabályzattal kapcsolatban, kérjük, lépjen kapcsolatba velünk a következő elérhetőségeken:
+
+Email: [majd valami petrikes email kene ide]
+
+Az Alkalmazás használatával Ön elismeri, hogy elolvasta, megértette és elfogadja ezt az Adatvédelmi Szabályzatot.

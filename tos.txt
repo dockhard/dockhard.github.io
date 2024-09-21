@@ -1,0 +1,67 @@
+Szolgáltatási feltételek
+
+Üdvözöljük a Petrik DÖK Applikációban (a továbbiakban: „Alkalmazás”), amely a diákönkormányzat tevékenységeit, kommunikációját és részvételét megkönnyítő platform. Az Alkalmazáshoz való hozzáféréssel vagy annak használatával Ön elfogadja a jelen Szolgáltatási feltételek (a továbbiakban: „Feltételek”) betartását. Ha nem ért egyet a jelen Feltételekkel, kérjük, ne használja az Alkalmazást.
+
+Integráció a Microsoft iskolai fiókokkal
+
+1.1. Hitelesítés: Az Alkalmazás hitelesítési céllal integrálódik a Microsoft School Accounts alkalmazással. Az alkalmazáshoz való hozzáféréshez a Microsoft School Account használatával Ön engedélyt ad nekünk arra, hogy az iskolai hitelesítő adatokat használjuk a bejelentkezéshez és a személyazonosságának ellenőrzéséhez.
+
+1.2. Adathozzáférés: Az Alkalmazás hozzáfér bizonyos adatokhoz az Ön Microsoft School fiókjából, például az Ön nevéhez, e-mail címéhez és más, az Alkalmazás működéséhez szükséges releváns információkhoz.
+
+Adatgyűjtés és tárolás
+
+2.1. A gyűjtött adatok típusai: Az Alkalmazás különböző típusú adatokat gyűjt és dolgoz fel, többek között, de nem kizárólagosan személyes adatokat (pl. név, elérhetőségi adatok).
+
+2.2. Tárolás: Az Alkalmazás által gyűjtött adatokat biztonságos környezetben tároljuk, és kizárólag az Alkalmazással kapcsolatos élmény fokozására és a diákönkormányzati tevékenységek támogatására használjuk fel.
+
+Felhasználói felelősségek és magatartás
+
+3.1. Fiókbiztonság: A felhasználók felelősek fiókjuk hitelesítő adatainak bizalmas kezeléséért és minden olyan tevékenységért, amely a fiókjuk alatt történik. Azonnal értesítsen minket a fiókja jogosulatlan használatáról.
+
+3.2. Elfogadható használat: A felhasználók vállalják, hogy az Alkalmazást csak törvényes célokra és az Alkalmazás oktatási céljaival összhangban lévő módon használják. A tiltott tevékenységek közé tartozik többek között a zaklatás, a rágalmazás és a más felhasználók adataihoz való jogosulatlan hozzáférés vagy azokba való beavatkozás.
+
+3.3. Az irányelveknek való megfelelés: A felhasználóknak az Alkalmazás használata során be kell tartaniuk az összes vonatkozó iskolai szabályzatot és irányelvet.
+
+Adatvédelem és adatvédelem
+
+4.1. Adatvédelmi irányelvek: Az Alkalmazás használatára az Adatvédelmi szabályzatunk vonatkozik, amely részletes tájékoztatást nyújt arról, hogyan kezeljük, védjük és használjuk az Ön személyes adatait. Kérjük, olvassa el az Adatvédelmi szabályzatot, hogy megértse gyakorlatunkat.
+
+4.2. Adatmegosztás: Az Alkalmazás nem osztja meg az Ön személyes adatait harmadik felekkel, kivéve, ha ez a jogi kötelezettségeknek való megfeleléshez szükséges, vagy az Adatvédelmi szabályzatunkban foglaltak szerint.
+
+Biztonsági intézkedések
+
+5.1. Adatvédelem: Az iparági szabványoknak megfelelő biztonsági intézkedéseket hajtunk végre, hogy megvédjük az Ön adatait a jogosulatlan hozzáféréstől, nyilvánosságra hozataltól, megváltoztatástól vagy megsemmisítéstől.
+
+5.2. Adatvédelmi incidensek kezelése: Adatsértés esetén a törvény által előírt módon értesítjük az érintett felhasználókat, és megfelelő lépéseket teszünk a lehetséges
+
+
+Fiókvezetés
+
+6.1. Fiók létrehozása: Az alkalmazás használatához fiókot kell létrehoznia a Microsoft School Account hitelesítő adatainak használatával. Győződjön meg arról, hogy a regisztráció során megadott összes információ pontos és naprakész.
+
+6.2. Fiók megszüntetése: Bármikor kérheti fiókja megszüntetését. Megszűnés esetén az Ön adatait az Adatvédelmi szabályzatunknak megfelelően kezeljük.
+
+6.3. Fiók felfüggesztése: Fenntartjuk a jogot, hogy felfüggesszük vagy megszüntessük azokat a fiókokat, amelyek megsértik a jelen Feltételeket vagy bármely alkalmazandó iskolai szabályzatot.
+Jogi megfelelés
+
+7.1. Adatvédelmi előírások: Az Ön személyes adatainak védelme érdekében betartjuk az alkalmazandó adatvédelmi előírásokat, beleértve, de nem kizárólagosan a GDPR-t és az egyéb vonatkozó jogszabályokat.
+
+7.2. Oktatási adatvédelmi törvények: Az Alkalmazás betartja a tanulói adatok kezelésére vonatkozó oktatási adatvédelmi törvényeket és rendeleteket.
+
+Felelősség és kizárások
+
+8.1. A felelősség korlátozása: Az Alkalmazás „ahogy van” és „ahogy rendelkezésre áll”. Nem garantáljuk, hogy az Alkalmazás hibamentes vagy megszakításmentes lesz. Felelősségünk a törvény által megengedett legnagyobb mértékben korlátozott.
+
+8.2. Kizáró nyilatkozatok: Kizárunk minden kifejezett vagy hallgatólagos garanciát, beleértve, de nem kizárólagosan, az eladhatóságra és a meghatározott célra való alkalmasságra vonatkozó hallgatólagos garanciákat.
+
+A szolgáltatási feltételek módosításai
+
+9.1. Módosítások: A jelen Feltételeket időről időre frissíthetjük. A módosításokat ezen az oldalon tesszük közzé a frissített hatálybalépési dátummal. Az Alkalmazás bármilyen módosítást követő további használata az új Feltételek elfogadásának minősül.
+
+Kapcsolattartási adatok
+
+10.1. Támogatás: A jelen Feltételekkel vagy az Alkalmazással kapcsolatos kérdések vagy aggályok esetén kérjük, lépjen kapcsolatba velünk a következő címen:
+
+Email: [petrikes email lehetoleg]
+
+Az Alkalmazás használatával Ön elismeri, hogy elolvasta, megértette és elfogadja a jelen Felhasználási feltételeket. Köszönjük, hogy iskolánk diákönkormányzati közösségének tagja vagy.
